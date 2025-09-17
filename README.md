@@ -5,21 +5,21 @@ This repository aims to provide tools and Jupyter notebooks to systematically ev
 
 This project is designed for researchers, engineers, and practitioners who want to:
 
-Test and benchmark different RAG architectures
-
-Analyze retrieval and generation performance
-
-Customize the evaluation pipeline for various datasets
+  1. Test and benchmark different RAG architectures
+  
+  2. Analyze retrieval and generation performance
+  
+  3. Customize the evaluation pipeline for various datasets
 
 Features
-Evaluation scripts and Jupyter Notebooks for:
-
-Measuring retrieval relevance and accuracy
-
-Assessing generative quality (e.g., factual correctness, fluency)
-
-Analyzing end-to-end performance metrics
-
-Modular structure for integrating custom retrieval and generation components
-
-Open to contributions and extensions (additional metrics, evaluation datasets, model adapters)
+  1. Evaluation scripts and Jupyter Notebooks for:
+  
+    a. Measuring retrieval relevance and accuracy
+    
+    b. Assessing generative quality (e.g., factual correctness, fluency)
+    
+    c. Analyzing end-to-end performance metrics
+  
+  2. Modular structure for integrating custom retrieval and generation components
+  
+  3. Open to contributions and extensions (additional metrics, evaluation datasets, model adapters)
